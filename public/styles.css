@@ -1,12 +1,12 @@
 body {
   font-size: 120%;
-  font-family: Arial;
-  background-color: #e5dfdf;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color: #94b5c0;
 }
 
 button, input {
   font-size: 100%;
-  font-family: Arial;
+  font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 table {
@@ -20,7 +20,7 @@ td, th {
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #cac4c7;
 }
 
 .error {
@@ -49,4 +49,9 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+#t-name, #t-amount, #add-btn, #sub-btn {
+  background-color: #cac4c7;
+  margin-bottom: 2px;
 }

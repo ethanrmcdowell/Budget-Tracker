@@ -24,6 +24,8 @@ Since the pandemic began, months have seemed to bleed into one another. It's bee
 
 ## PACKAGES
 
+- [Chart.JS](https://www.chartjs.org/)
+
 - [Express](https://www.npmjs.com/package/express)
 
 - [Morgan](https://www.npmjs.com/package/morgan)
