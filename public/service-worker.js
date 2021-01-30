@@ -1,5 +1,8 @@
+// GLOBAL VARIABLES
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
+
+// LIST OF FILES THAT ARE TO BE CACHED
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
@@ -12,7 +15,6 @@ const FILES_TO_CACHE = [
 ];
 
 // INSTALL
-
 self.addEventListener("install", (event) => {
     // PRE-CACHE ALL STATIC ASSETS
     event.waitUntil(
