@@ -34,7 +34,7 @@ Since the pandemic began, months have seemed to bleed into one another. It's bee
 
 ## SCREENSHOT
 
-![Application Screenshot]()
+![Application Screenshot](./BudgetDemo.png)
 
 ## CONTACT
 
